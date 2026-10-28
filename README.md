@@ -10,6 +10,8 @@ Doce situaciones. La carga a 75 abre automáticamente el fuero íntimo. El exter
 
 El objetivo es un equilibrio provisional: terminar con energía ≥25, escrutinio ≤45 y entre una y cuatro incursiones. Energía cero o escrutinio 100 provocan finales anticipados. Las consecuencias se muestran antes de elegir. El cuaderno registra las decisiones.
 
+Las horas añaden desgaste persistente: desde el mediodía, mayor coste de energía/carga; al anochecer crece de nuevo, y forzar la fachada añade escrutinio por malhumor. Cambiar de escena no reinicia reservas. La cama cierra el día sin celebración ni curación.
+
 ## Accesibilidad y privacidad
 
 Sin reloj de reacción. Sonido opcional generado localmente. Efectos desactivables. La latencia expresiva está limitada a 180 ms y bloquea dobles toques; las opciones no se desenfocan. Respeta reducción de movimiento. Guardado automático solo en este navegador, sin telemetría ni peticiones a servicios externos. Nueva partida sustituye el guardado tras confirmación.
