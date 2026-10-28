@@ -1,13 +1,21 @@
-# Altered Self: El expediente
+# Altered Self: La jornada
 
-Primer segmento público de dirección de aventura de señalar y pulsar. No es el juego completo ni el día completo.
+Aventura de señalar y pulsar, ficción psicológica ambientada en 2016. Héctor tiene40 años y lleva22 ocultando su diagnóstico de EM. No es una simulación médica ni un relato de la vida del usuario.
 
-Abre index.html. Señala el suelo para caminar. Elige Mirar, Usar/recoger o Hablar y después un objeto. La carpeta es el inventario. Entrega el expediente al cliente y sal por el pasillo.
+## Jugar
 
-Incluye una oficina, seis objetos/personajes interactivos, caminar con dos poses y orientación, recoger, conversación, entrega y salida; carga, energía, escrutinio y reloj por acciones. El calor, la conversación y recoger la hoja pueden llevar al fuero íntimo. Allí una criatura de cuatro brazos resuelve un puzle de sellos reversibles. El retorno tiene coste y ocho minutos narrativos de secuela que afectan la siguiente acción. Los minutos acumulados añaden carga y gasto energético. No hay reloj real ni tiempo de lectura limitado.
+Abre index.html o la demo de GitHub Pages. Elige Mirar, Usar/recoger o Hablar y toca un objeto o personaje. Héctor se acerca antes de actuar. Toca suelo libre para caminar. En móvil hay una banda de objetos con botones grandes.
 
-Arte generado original de oficina, Héctor, cliente y criatura. Sin assets del juego de referencia. HTML, CSS y JS separados, sin servicios externos. Música ambiental original sintetizada, opcional y activada por un toque. Se corta en seco durante el fuero íntimo. Efectos opcionales. Perspectiva del personaje vinculada al plano del suelo. Pruebas de escritorio y vistas320/390 no equivalen a teléfono físico.
+Recorrido jugable: expediente de oficina, vuelta a casa, salón/cena y dormitorio. Completa el expediente; encuentra las llaves en la bolsa; deja el abrigo y conversa; usa la silla antes de acostarte. Los saltos de horas se anuncian antes de actuar. No se cronometra la lectura.
 
-Pendiente para un juego completo: más escenarios, ruta de un día hasta cama, progresión de historia, más encuentros íntimos, mejores animaciones. Este segmento guarda automáticamente en el mismo navegador: posición, inventario, tiempo, recursos, secuelas y puzle. No sincroniza dispositivos; borrar datos borra la partida. Nueva partida pide confirmación. La ficha original de doce decisiones se conserva por separado como prueba de reglas y no se presenta como aventura terminada.
+Carga, energía y escrutinio pasan entre escenas. Las horas aumentan el coste y hacen más lento el paso. Al alcanzar75 de carga, transformación automática en una criatura dentro del fuero íntimo: cada brazo invierte dos sellos. Apágalos todos. El reloj exterior se detiene y la música se corta. Regresar siempre cuesta energía o una respuesta hostil, y deja8 minutos narrativos de temblores/debilidad que afectan la siguiente acción. La enfermedad no es la criatura.
 
-Métricas y fisiología ficticias. No simulación clínica de EM. Los personajes son ficticios y no contienen datos personales.
+Música ambiental original sintetizada, activada con un toque. Efectos opcionales. Imágenes originales generadas para el proyecto. Sin assets del juego de referencia, sin servicios externos, sin datos enviados.
+
+## Guardado
+
+Automático en el mismo navegador: escena, posición, reloj, recursos, inventario, puzle y secuelas. No sincroniza dispositivos. Borrar datos borra partida. Nueva partida pide confirmación. Si el navegador impide guardar, aparece un aviso. La música requiere un toque de nuevo tras abrir.
+
+## Alcance
+
+Un recorrido corto de jornada con cuatro escenas, dos encuentros internos de sellos reversibles y final de descanso. La parte laboral entre el expediente y salir se resume como salto horario explícito. Animación de caminar básica de dos poses, no una aventura comercial extensa. Aún falta variedad de retos internos, animaciones e interacciones más ricas, ajustes de balance y pruebas en teléfono físico. No APK. El experimento textual anterior permanece en app.js e historial, no es el destino principal.
