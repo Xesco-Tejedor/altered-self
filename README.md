@@ -4,7 +4,7 @@ Aventura de señalar y pulsar, ficción psicológica ambientada en 2016. Héctor
 
 ## Jugar
 
-Abre index.html o la demo de GitHub Pages. Elige Mirar, Usar/recoger o Hablar y toca un objeto o personaje. Héctor se acerca antes de actuar. Toca suelo libre para caminar. En móvil hay una banda de objetos con botones grandes.
+Abre index.html o la demo de GitHub Pages. En móvil, toca primero un objeto o personaje y elige su acción contextual. En escritorio, elige Mirar, Usar/recoger o Hablar y toca un objeto o personaje. Héctor se acerca antes de actuar. Toca suelo libre para caminar. En móvil el escenario permanece visible y el panel inferior desplaza solo las decisiones. En horizontal se divide escenario y decisiones. El menú superior reúne música, efectos, bolsa, cuaderno y nueva partida. El acercamiento es más breve y no consume tiempo de lectura.
 
 Recorrido jugable: expediente de oficina, vuelta a casa, salón/cena y dormitorio. Completa el expediente; encuentra las llaves en la bolsa; deja el abrigo y conversa; usa la silla antes de acostarte. Los saltos de horas se anuncian antes de actuar. No se cronometra la lectura.
 
@@ -18,4 +18,4 @@ Automático en el mismo navegador: escena, posición, reloj, recursos, inventari
 
 ## Alcance
 
-Un recorrido corto de jornada con cuatro escenas, dos encuentros internos de sellos reversibles y final de descanso. La parte laboral entre el expediente y salir se resume como salto horario explícito. Animación de caminar básica de dos poses, no una aventura comercial extensa. Aún falta variedad de retos internos, animaciones e interacciones más ricas, ajustes de balance y pruebas en teléfono físico. No APK. El experimento textual anterior permanece en app.js e historial, no es el destino principal.
+Un recorrido corto de jornada con cuatro escenas, encuentros internos de sellos reversibles y final de descanso. La parte laboral entre el expediente y salir se resume como salto horario explícito. Animación de caminar básica de dos poses, no una aventura comercial extensa. Aún falta variedad de retos internos, animaciones e interacciones más ricas, ajustes de balance y pruebas en teléfono físico. No APK. El experimento textual anterior permanece en app.js e historial, no es el destino principal.
