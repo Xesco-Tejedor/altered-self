@@ -1,23 +1,13 @@
-# Altered Self
+# Altered Self: El expediente
 
-Juego web independiente de rol psicológico y gestión de recursos. Un día de 2016 en la vida ficticia de Héctor: 40 años, veintidós años ocultando su diagnóstico de esclerosis múltiple remitente recidivante.
+Primer segmento privado de dirección de aventura de señalar y pulsar. No es el juego completo ni el día completo.
 
-## Jugar
+Abre index.html. Señala el suelo para caminar. Elige Mirar, Usar/recoger o Hablar y después un objeto. La carpeta es el inventario. Entrega el expediente al cliente y sal por el pasillo.
 
-Abre `index.html` en un navegador moderno o la demo de GitHub Pages. No requiere instalación, claves, cuentas ni conexión tras descargar sus tres archivos. Funciona con ratón o pantalla táctil. La guía está dentro del juego.
+Incluye una oficina, seis objetos/personajes interactivos, caminar con dos poses y orientación, recoger, conversación, entrega y salida; carga, energía, escrutinio y reloj por acciones. El calor, la conversación y recoger la hoja pueden llevar al fuero íntimo. Allí una criatura de cuatro brazos resuelve un puzle de sellos reversibles. El retorno tiene coste y ocho minutos narrativos de secuela que afectan la siguiente acción. Los minutos acumulados añaden carga y gasto energético. No hay reloj real ni tiempo de lectura limitado.
 
-Doce situaciones. La carga a 75 abre automáticamente el fuero íntimo. El exterior se congela, pierde color y el ambiente se silencia. Héctor adopta tres cuerpos originales: un ser acorazado, una criatura astada y una bestia con garras. Hay puzle de cerrojos de estados reversibles, acertijo y duelo verbal. El regreso reduce la carga pero consume energía o aumenta el escrutinio con una respuesta hostil. Persisten temblores y debilidad durante ocho minutos del relato: una escena inmediata permite apoyar los gestos, forzarlos o pedir una pausa, siempre con coste de energía. La siguiente cita solo llega después de atravesar esos minutos. No exige esperar tiempo real. Es fisiología ficticia del relato, no causalidad clínica.
+Arte generado original de oficina, Héctor, cliente y criatura. Sin assets del juego de referencia. HTML, CSS y JS separados, sin servicios externos. Sonido sintético opcional. Efectos opcionales. Pruebas de escritorio y vistas320/390 no equivalen a teléfono físico.
 
-El objetivo es un equilibrio provisional: terminar con energía ≥25, escrutinio ≤45 y entre una y cuatro incursiones. Energía cero o escrutinio 100 provocan finales anticipados. Las consecuencias se muestran antes de elegir. El cuaderno registra las decisiones.
+Pendiente para un juego completo: más escenarios, ruta de un día hasta cama, progresión de historia, más encuentros íntimos, mejores animaciones y guardado. Este segmento no tiene guardado. La ficha original de doce decisiones se conserva por separado como prueba de reglas y no se presenta como aventura terminada.
 
-Las horas añaden desgaste persistente: desde el mediodía, mayor coste de energía/carga; al anochecer crece de nuevo, y forzar la fachada añade escrutinio por malhumor. Cambiar de escena no reinicia reservas. La cama cierra el día sin celebración ni curación.
-
-## Accesibilidad y privacidad
-
-Sin reloj de reacción. Sonido opcional generado localmente. Efectos desactivables. La latencia expresiva está limitada a 180 ms y bloquea dobles toques; las opciones no se desenfocan. Respeta reducción de movimiento. Guardado automático solo en este navegador, sin telemetría ni peticiones a servicios externos. Nueva partida sustituye el guardado tras confirmación.
-
-## Ficción, no clínica
-
-Carga, energía, umbrales y colapsos son reglas de ficción. No son una simulación médica ni predicen la evolución de la EM. Los álter egos y las metamorfosis no son síntomas atribuidos a la EM. El juego trata la ocultación y el coste cotidiano, no la enfermedad como monstruo. Personajes y gráficos originales, sin datos personales ni assets de Altered Beast.
-
-HTML, CSS y JavaScript en archivos separados. Sin bibliotecas de ejecución ni recursos externos.
+Métricas y fisiología ficticias. No simulación clínica de EM. Los personajes son ficticios y no contienen datos personales.
